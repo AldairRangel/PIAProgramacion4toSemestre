@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="logob">
+    <file>LogoNegrops.png</file>
+  </qresource>
+</RCC>
